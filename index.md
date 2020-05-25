@@ -2,5 +2,5 @@
 
 Welcome to my blog
 
-![My dog. She is a clumber spaniel.](./IMG-1389.jpg | width=500)
+![My dog. She is a clumber spaniel.](./IMG-1389.jpg)
 
